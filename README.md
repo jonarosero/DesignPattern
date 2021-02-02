@@ -4,6 +4,6 @@
 
 Autor: Jonathan Andres Rosero Soto
 
-Wiki:
+Wiki: https://github.com/jonarosero/DesignPattern/wiki/Patrones-de-Diseño
 
 Video:
